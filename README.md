@@ -18,7 +18,7 @@ This project combines the power of AI with the richness of Moroccan culture to g
 **Workflow Diagram**
 --------------------
 
-[Insert workflow diagram here]
+![workflow](resource/workflow.png)
 
 **Motivation**
 -------------
