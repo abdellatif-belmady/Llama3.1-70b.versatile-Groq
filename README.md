@@ -1,5 +1,3 @@
-# Llama3.1-70b.versatile-Groq
-
 **Exciting Project: Moroccan Cuisine Recipe Generator and Cultural Insight Tool 🚀**
 ===============================================================================
 
