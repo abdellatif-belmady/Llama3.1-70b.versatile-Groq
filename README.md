@@ -39,11 +39,6 @@ To get started with this project, please follow these steps:
 
 If you're interested in contributing to this project, please fork the repository and submit a pull request. I'm open to suggestions, bug fixes, and new feature ideas.
 
-**License**
-----------
-
-This project is licensed under **Free**.
-
 **Acknowledgments**
 ----------------
 
